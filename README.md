@@ -1,5 +1,5 @@
 
-# Fetal health classification
+# Fake News Detection
 
 This project is dedicated to detecting fake news articles using `Long Short-Term Memory (LSTM`), a type of `recurrent neural network (RNN)`. The primary objective is to develop a deep learning model that can effectively differentiate between legitimate and fabricated news sources based on textual content.
 
